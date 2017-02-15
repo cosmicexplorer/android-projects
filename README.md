@@ -34,7 +34,7 @@ android-lectures-spring-2016
 - use created images as custom keyboard
 
 ### devs
-- emily
+- emily (@emilymarket)
 
 ### challenges
 - need to create custom keyboard using images from app
@@ -74,10 +74,26 @@ android-lectures-spring-2016
 - easily add songs from other playlists or from search
 
 ### devs
-- eric
+- eric (@ezhuang13)
 
 ### challenges
 - integrate with spotify api
     - hard
     - need to use spotify authentication sdk, THEN a third-party for web api
 - cool easy to use ui for manipulating playlists
+
+## Time Manager
+
+### summary
+- input recurring deadlines
+- show deadlines scheduled each week/month/day
+- show amount of free time / sleep time each day
+
+### devs
+- zubeir (@zubeirosman)
+
+### challenges
+- interface for adding recurring deadlines
+- make calendar views
+- calculating free time
+    - need to figure out how to optimally schedule events
