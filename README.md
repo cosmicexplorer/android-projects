@@ -66,3 +66,18 @@ android-lectures-spring-2016
 - d&d book is copyrighted!
     - not a problem if we don't put on app store yet
     - is there an api for it?
+
+## Spotify Queue Builder
+
+### summary
+- shuffle your spotify playlists
+- easily add songs from other playlists or from search
+
+### devs
+- eric
+
+### challenges
+- integrate with spotify api
+    - hard
+    - need to use spotify authentication sdk, THEN a third-party for web api
+- cool easy to use ui for manipulating playlists
